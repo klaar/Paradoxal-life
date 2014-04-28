@@ -30,22 +30,19 @@
         </div>
         <div class="contenu_onglets">
             <div class="contenu_onglet" id="contenu_onglet_diary">
-                <h1>Quoi?</h1>
-                Un simple syst&egrave;me d'onglet utilisant les technologies:<br />
-                <ul>
-                    <li>(X)html</li>
-                    <li>CSS</li>
-                    <li>Javascript</li>
-                </ul>
+                <h1>Diary</h1></br>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor,
+                 orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.</p>
             </div>
             <div class="contenu_onglet" id="contenu_onglet_photos">
-                <h1>Qui?</h1>
-                C'est un script r&eacute;alis&eacute; par Ybouane,<br />
-                Webmaster du site <a href="http://www.supportduweb.com/">http://www.supportduweb.com/</a>
+                <h1>Photos</h1></br>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor,
+                 orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.</p>
             </div>
             <div class="contenu_onglet" id="contenu_onglet_exp">
-                <h1>Pourquoi?</h1>
-                Pour simplifier la navigation et la diviser en parties
+                <h1>Experiments</h1></br>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor,
+                 orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.</p>
             </div>
         </div>
     </div>
