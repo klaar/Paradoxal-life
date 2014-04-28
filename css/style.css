@@ -1,11 +1,13 @@
 
-.system_onglrts{
-	width: 100%;
+.systeme_onglets{
+	width: 80%;
 	margin: auto;
+	border: solid black 3px;
 }
 .onglets{
 	width: 90%;
 	margin: auto;
+	text-align: center;
 }
 .onglet
         {
@@ -14,28 +16,38 @@
                 padding:3px;
                 border:1px solid black;
                 cursor:pointer;
-                width: 33.11%;
+                width: 30%;
                 
                 
                 
         }
         .onglet_0
         {
-                background:#bbbbbb;
+        	    
+        	    border-top: none;
+        	    border-left: none;
+        	    border-right: none;
+                background:#fff;
                 border-bottom:1px solid black;
+                text-align: center;
         }
         .onglet_1
         {
+        	    font-size: 1.5vmax;
+        	    border-top: none;
+        	    border-left: none;
+        	    border-right: none;
+                text-align: center;
                 background:#fff;
-                border-bottom:0px solid black;
+                border-bottom:2px solid black;
                 padding-bottom:4px;
         }
         .contenu_onglet
         {
                 background-color:#fff;
-                border:1px solid black;
+                
                 display: none;
-                width: 90%;
+                width: 81.5%;
                 margin: auto;
 
         }
