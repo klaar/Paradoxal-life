@@ -1,1 +1,42 @@
 
+.system_onglrts{
+	width: 100%;
+	margin: auto;
+}
+.onglets{
+	width: 90%;
+	margin: auto;
+}
+.onglet
+        {
+                display:inline-block;
+               
+                padding:3px;
+                border:1px solid black;
+                cursor:pointer;
+                width: 33.11%;
+                
+                
+                
+        }
+        .onglet_0
+        {
+                background:#bbbbbb;
+                border-bottom:1px solid black;
+        }
+        .onglet_1
+        {
+                background:#fff;
+                border-bottom:0px solid black;
+                padding-bottom:4px;
+        }
+        .contenu_onglet
+        {
+                background-color:#fff;
+                border:1px solid black;
+                display: none;
+                width: 90%;
+                margin: auto;
+
+        }
+        
